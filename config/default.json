@@ -1,0 +1,6 @@
+{
+  "port": 8000,
+  "jwtSecret": "pilot project",
+  "mongoUri": "mongodb+srv://admin:123@cluster0-f7cei.azure.mongodb.net/linkapp?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:8000"
+}
