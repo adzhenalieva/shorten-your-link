@@ -3,4 +3,4 @@ MERN project
 
 To run project:
 
-# npm run
+# npm run start
